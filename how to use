@@ -17,3 +17,4 @@
         hljs.initHighlightingOnLoad();
       </script>
 
+     perhaps your highlight js folder is different with the above code, but you can specifiy it.
